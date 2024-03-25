@@ -13,7 +13,7 @@ public Plugin myinfo =
 	author = "Spookmaster",
 	description = "Provides several natives which help developers make easy use of the point_worldtext entity.",
 	version = PLUGIN_VERSION,
-	url = "TODO: GitHub URL"
+	url = "https://github.com/SupremeSpookmaster/TF2-World-Text-Helper"
 };
 
 public APLRes AskPluginLoad2(Handle myself, bool late, char[] error, int err_max)
